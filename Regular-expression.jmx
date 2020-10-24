@@ -134,7 +134,7 @@
             <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="Regular Expression Extractor" enabled="true">
               <stringProp name="RegexExtractor.useHeaders">false</stringProp>
               <stringProp name="RegexExtractor.refname">Username</stringProp>
-              <stringProp name="RegexExtractor.regex">Enter &lt;em&gt;(.+?)&lt;/em&gt; for the username</stringProp>
+              <stringProp name="RegexExtractor.regex">Enter &lt;em&gt;(.+?)&lt;/em&gt; for the username and &lt;em&gt;(.+?)&lt;/em&gt; for the password</stringProp>
               <stringProp name="RegexExtractor.template">$1$</stringProp>
               <stringProp name="RegexExtractor.default">admin</stringProp>
               <stringProp name="RegexExtractor.match_number">1</stringProp>
@@ -147,7 +147,7 @@
                 <elementProp name="password" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">true</boolProp>
                   <stringProp name="Argument.name">password</stringProp>
-                  <stringProp name="Argument.value">SuperSecretPassword!</stringProp>
+                  <stringProp name="Argument.value">${Username_g2}</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                   <boolProp name="HTTPArgument.use_equals">true</boolProp>
                 </elementProp>
