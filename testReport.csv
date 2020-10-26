@@ -1,0 +1,106 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603598247879,5021,login,200,OK,Thread Group 1-3,text,true,,1108439,7815,3,3,http://the-internet.herokuapp.com/login,469,0,228
+1603598247879,469,login-0,200,OK,Thread Group 1-3,text,true,,3213,391,3,3,http://the-internet.herokuapp.com/login,469,0,228
+1603598248353,1179,login-1,200,OK,Thread Group 1-3,text,true,,132734,923,3,3,http://the-internet.herokuapp.com/js/vendor/298279967.js,227,0,0
+1603598248353,4547,login-2,200,OK,Thread Group 1-3,text,true,,353679,912,3,3,http://the-internet.herokuapp.com/css/app.css,557,0,226
+1603598248353,695,login-3,200,OK,Thread Group 1-3,text,true,,29031,921,3,3,http://the-internet.herokuapp.com/css/font-awesome.css,442,0,207
+1603598248354,1939,login-4,200,OK,Thread Group 1-3,text,true,,96255,931,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,563,0,225
+1603598248354,4131,login-5,200,OK,Thread Group 1-3,text,true,,470895,940,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,448,0,213
+1603598248354,560,login-6,200,OK,Thread Group 1-3,text,true,,13013,928,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.js,560,0,225
+1603598248915,310,login-7,200,OK,Thread Group 1-3,text,true,,1689,935,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,310,0,0
+1603598249064,468,login-8,200,OK,Thread Group 1-3,bin,true,,7930,934,3,3,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,467,0,0
+1603598247454,5989,login,200,OK,Thread Group 1-1,text,true,,1108439,7815,3,3,http://the-internet.herokuapp.com/login,607,0,343
+1603598247633,5810,login,200,OK,Thread Group 1-2,text,true,,1108439,7815,3,3,http://the-internet.herokuapp.com/login,455,0,226
+1603598247454,610,login-0,200,OK,Thread Group 1-1,text,true,,3213,391,3,3,http://the-internet.herokuapp.com/login,607,0,343
+1603598247633,455,login-0,200,OK,Thread Group 1-2,text,true,,3213,391,3,3,http://the-internet.herokuapp.com/login,455,0,226
+1603598248114,1415,login-1,200,OK,Thread Group 1-1,text,true,,132734,923,3,3,http://the-internet.herokuapp.com/js/vendor/298279967.js,458,0,223
+1603598248113,884,login-1,200,OK,Thread Group 1-2,text,true,,132734,923,3,3,http://the-internet.herokuapp.com/js/vendor/298279967.js,228,0,0
+1603598248113,2872,login-2,200,OK,Thread Group 1-1,text,true,,353679,912,3,3,http://the-internet.herokuapp.com/css/app.css,245,0,0
+1603598248114,3907,login-2,200,OK,Thread Group 1-2,text,true,,353679,912,3,3,http://the-internet.herokuapp.com/css/app.css,460,0,223
+1603598248115,690,login-3,200,OK,Thread Group 1-2,text,true,,29031,921,3,3,http://the-internet.herokuapp.com/css/font-awesome.css,463,0,222
+1603598248114,646,login-3,200,OK,Thread Group 1-1,text,true,,29031,921,3,3,http://the-internet.herokuapp.com/css/font-awesome.css,436,0,214
+1603598248115,1414,login-4,200,OK,Thread Group 1-2,text,true,,96255,931,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,446,0,217
+1603598248115,1845,login-4,200,OK,Thread Group 1-1,text,true,,96255,931,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,477,0,232
+1603598248116,5327,login-5,200,OK,Thread Group 1-2,text,true,,470895,940,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,463,0,221
+1603598248116,455,login-6,200,OK,Thread Group 1-2,text,true,,13013,928,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.js,453,0,215
+1603598248116,5327,login-5,200,OK,Thread Group 1-1,text,true,,470895,940,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,470,0,231
+1603598248572,242,login-7,200,OK,Thread Group 1-2,text,true,,1689,935,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,242,0,0
+1603598248117,443,login-6,200,OK,Thread Group 1-1,text,true,,13013,928,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.js,441,0,211
+1603598248814,260,login-8,200,OK,Thread Group 1-2,bin,true,,7930,934,3,3,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,259,0,0
+1603598248562,233,login-7,200,OK,Thread Group 1-1,text,true,,1689,935,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,233,0,0
+1603598248796,252,login-8,200,OK,Thread Group 1-1,bin,true,,7930,934,3,3,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,252,0,0
+1603598254028,1244,authenticate,200,OK,Thread Group 1-3,text,false,Test failed: text expected to contain /Welcome to the Secure Area./,5977,10686,3,3,http://the-internet.herokuapp.com/login,248,0,0
+1603598254028,248,authenticate-0,303,See Other,Thread Group 1-3,text,true,,944,1076,3,3,http://the-internet.herokuapp.com/authenticate,248,0,0
+1603598254277,245,authenticate-1,200,OK,Thread Group 1-3,text,true,,3385,1050,3,3,http://the-internet.herokuapp.com/login,245,0,0
+1603598254550,272,authenticate-2,304,Not Modified,Thread Group 1-3,,true,,206,1065,3,3,http://the-internet.herokuapp.com/js/vendor/298279967.js,0,0,0
+1603598254550,257,authenticate-3,304,Not Modified,Thread Group 1-3,,true,,206,1054,3,3,http://the-internet.herokuapp.com/css/app.css,0,0,0
+1603598254550,272,authenticate-4,304,Not Modified,Thread Group 1-3,,true,,206,1063,3,3,http://the-internet.herokuapp.com/css/font-awesome.css,0,0,0
+1603598254550,272,authenticate-5,304,Not Modified,Thread Group 1-3,,true,,206,1073,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,0,0,0
+1603598254550,249,authenticate-6,304,Not Modified,Thread Group 1-3,,true,,206,1082,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,0,0,0
+1603598254550,277,authenticate-7,304,Not Modified,Thread Group 1-3,,true,,206,1070,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.js,0,0,0
+1603598254800,472,authenticate-8,304,Not Modified,Thread Group 1-3,,true,,206,1077,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,0,0,235
+1603598254807,454,authenticate-9,304,Not Modified,Thread Group 1-3,,true,,206,1076,3,3,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,0,0,228
+1603598255278,526,"http://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1602390262170r0.6231794359209157&wxhr=true&t=1603376852122&f=298349752,318188263",200,OK,Thread Group 1-3,text,true,,657,376,3,3,http://298279967.log.optimizely.com/event?a=298279967&d=298279967&t=1603376852122&u=oeu1602390262170r0.6231794359209157&f=298349752%2C318188263&g=298283957&y=false&wxhr=true&n=engagement,526,0,304
+1603598257401,1124,authenticate,200,OK,Thread Group 1-1,text,true,,5493,11055,3,3,http://the-internet.herokuapp.com/secure,275,0,0
+1603598257401,275,authenticate-0,303,See Other,Thread Group 1-1,text,true,,994,1075,3,3,http://the-internet.herokuapp.com/authenticate,275,0,0
+1603598257676,337,authenticate-1,200,OK,Thread Group 1-1,text,true,,2851,1100,3,3,http://the-internet.herokuapp.com/secure,332,0,0
+1603598258019,242,authenticate-2,304,Not Modified,Thread Group 1-1,,true,,206,1105,3,3,http://the-internet.herokuapp.com/js/vendor/298279967.js,0,0,0
+1603598258019,229,authenticate-3,304,Not Modified,Thread Group 1-1,,true,,206,1094,3,3,http://the-internet.herokuapp.com/css/app.css,0,0,0
+1603598258019,234,authenticate-4,304,Not Modified,Thread Group 1-1,,true,,206,1103,3,3,http://the-internet.herokuapp.com/css/font-awesome.css,0,0,0
+1603598258019,245,authenticate-5,304,Not Modified,Thread Group 1-1,,true,,206,1113,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,0,0,0
+1603598258019,253,authenticate-6,304,Not Modified,Thread Group 1-1,,true,,206,1122,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,0,0,0
+1603598258019,506,authenticate-7,304,Not Modified,Thread Group 1-1,,true,,206,1110,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.js,0,0,236
+1603598258249,236,authenticate-8,304,Not Modified,Thread Group 1-1,,true,,206,1117,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,0,0,0
+1603598258253,245,authenticate-9,304,Not Modified,Thread Group 1-1,,true,,206,1116,3,3,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,0,0,0
+1603598258529,468,"http://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1602390262170r0.6231794359209157&wxhr=true&t=1603376852122&f=298349752,318188263",200,OK,Thread Group 1-1,text,true,,657,376,3,3,http://298279967.log.optimizely.com/event?a=298279967&d=298279967&t=1603376852122&u=oeu1602390262170r0.6231794359209157&f=298349752%2C318188263&g=298283957&y=false&wxhr=true&n=engagement,468,0,223
+1603598258485,1304,authenticate,200,OK,Thread Group 1-2,text,false,Test failed: text expected to contain /Welcome to the Secure Area./,5977,10686,3,3,http://the-internet.herokuapp.com/login,240,0,0
+1603598258485,240,authenticate-0,303,See Other,Thread Group 1-2,text,true,,944,1076,3,3,http://the-internet.herokuapp.com/authenticate,240,0,0
+1603598258725,220,authenticate-1,200,OK,Thread Group 1-2,text,true,,3385,1050,3,3,http://the-internet.herokuapp.com/login,218,0,0
+1603598258950,236,authenticate-2,304,Not Modified,Thread Group 1-2,,true,,206,1065,3,3,http://the-internet.herokuapp.com/js/vendor/298279967.js,0,0,0
+1603598258950,232,authenticate-3,304,Not Modified,Thread Group 1-2,,true,,206,1054,3,3,http://the-internet.herokuapp.com/css/app.css,0,0,0
+1603598258950,483,authenticate-4,304,Not Modified,Thread Group 1-2,,true,,206,1063,3,3,http://the-internet.herokuapp.com/css/font-awesome.css,0,0,232
+1603598258950,246,authenticate-5,304,Not Modified,Thread Group 1-2,,true,,206,1073,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,0,0,0
+1603598258950,236,authenticate-6,304,Not Modified,Thread Group 1-2,,true,,206,1082,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,0,0,0
+1603598258950,231,authenticate-7,304,Not Modified,Thread Group 1-2,,true,,206,1070,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.js,0,0,0
+1603598259182,229,authenticate-8,304,Not Modified,Thread Group 1-2,,true,,206,1077,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,0,0,0
+1603598259183,606,authenticate-9,304,Not Modified,Thread Group 1-2,,true,,206,1076,3,3,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,0,0,214
+1603598259792,461,"http://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1602390262170r0.6231794359209157&wxhr=true&t=1603376852122&f=298349752,318188263",200,OK,Thread Group 1-2,text,true,,657,376,3,3,http://298279967.log.optimizely.com/event?a=298279967&d=298279967&t=1603376852122&u=oeu1602390262170r0.6231794359209157&f=298349752%2C318188263&g=298283957&y=false&wxhr=true&n=engagement,461,0,219
+1603598260768,1243,logout,200,OK,Thread Group 1-3,text,true,,6005,9710,3,3,http://the-internet.herokuapp.com/login,280,0,0
+1603598260768,280,logout-0,302,Found,Thread Group 1-3,text,true,,961,907,3,3,http://the-internet.herokuapp.com/logout,280,0,0
+1603598261049,242,logout-1,200,OK,Thread Group 1-3,text,true,,3396,979,3,3,http://the-internet.herokuapp.com/login,242,0,0
+1603598261296,230,logout-2,304,Not Modified,Thread Group 1-3,,true,,206,973,3,3,http://the-internet.herokuapp.com/js/vendor/298279967.js,0,0,0
+1603598261296,240,logout-3,304,Not Modified,Thread Group 1-3,,true,,206,962,3,3,http://the-internet.herokuapp.com/css/app.css,0,0,0
+1603598261296,250,logout-4,304,Not Modified,Thread Group 1-3,,true,,206,971,3,3,http://the-internet.herokuapp.com/css/font-awesome.css,0,0,0
+1603598261296,235,logout-5,304,Not Modified,Thread Group 1-3,,true,,206,981,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,0,0,0
+1603598261296,250,logout-6,304,Not Modified,Thread Group 1-3,,true,,206,990,3,3,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,0,0,0
+1603598261296,246,logout-7,304,Not Modified,Thread Group 1-3,,true,,206,978,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.js,0,0,0
+1603598261527,484,logout-8,304,Not Modified,Thread Group 1-3,,true,,206,985,3,3,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,0,0,225
+1603598261532,211,logout-9,304,Not Modified,Thread Group 1-3,,true,,206,984,3,3,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,0,0,0
+1603598247877,8034,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-3,,false,,1121078,28587,3,3,null,1523,6103,532
+1603598262017,1,Debug Sampler,200,OK,Thread Group 1-3,text,true,,512,0,3,3,null,0,0,0
+1603598262986,1190,logout,200,OK,Thread Group 1-1,text,true,,6005,9750,2,2,http://the-internet.herokuapp.com/login,251,0,0
+1603598262986,251,logout-0,302,Found,Thread Group 1-1,text,true,,961,947,2,2,http://the-internet.herokuapp.com/logout,251,0,0
+1603598263238,246,logout-1,200,OK,Thread Group 1-1,text,true,,3396,979,2,2,http://the-internet.herokuapp.com/login,246,0,0
+1603598263488,464,logout-2,304,Not Modified,Thread Group 1-1,,true,,206,973,2,2,http://the-internet.herokuapp.com/js/vendor/298279967.js,0,0,229
+1603598263488,256,logout-3,304,Not Modified,Thread Group 1-1,,true,,206,962,2,2,http://the-internet.herokuapp.com/css/app.css,0,0,0
+1603598263488,234,logout-4,304,Not Modified,Thread Group 1-1,,true,,206,971,2,2,http://the-internet.herokuapp.com/css/font-awesome.css,0,0,0
+1603598263488,249,logout-5,304,Not Modified,Thread Group 1-1,,true,,206,981,2,2,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,0,0,0
+1603598263489,233,logout-6,304,Not Modified,Thread Group 1-1,,true,,206,990,2,2,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,0,0,0
+1603598263488,459,logout-7,304,Not Modified,Thread Group 1-1,,true,,206,978,2,2,http://the-internet.herokuapp.com/js/foundation/foundation.js,0,0,224
+1603598263723,453,logout-8,304,Not Modified,Thread Group 1-1,,true,,206,985,2,2,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,0,0,214
+1603598263723,443,logout-9,304,Not Modified,Thread Group 1-1,,true,,206,984,2,2,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,0,0,209
+1603598247385,8771,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,1120594,28996,2,2,null,1601,8021,566
+1603598264178,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,517,0,2,2,null,0,0,0
+1603598264785,1172,logout,200,OK,Thread Group 1-2,text,true,,6005,9710,1,1,http://the-internet.herokuapp.com/login,247,0,0
+1603598264785,247,logout-0,302,Found,Thread Group 1-2,text,true,,961,907,1,1,http://the-internet.herokuapp.com/logout,247,0,0
+1603598265033,239,logout-1,200,OK,Thread Group 1-2,text,true,,3396,979,1,1,http://the-internet.herokuapp.com/login,239,0,0
+1603598265276,233,logout-2,304,Not Modified,Thread Group 1-2,,true,,206,973,1,1,http://the-internet.herokuapp.com/js/vendor/298279967.js,0,0,0
+1603598265276,222,logout-3,304,Not Modified,Thread Group 1-2,,true,,206,962,1,1,http://the-internet.herokuapp.com/css/app.css,0,0,0
+1603598265276,458,logout-4,304,Not Modified,Thread Group 1-2,,true,,206,971,1,1,http://the-internet.herokuapp.com/css/font-awesome.css,0,0,221
+1603598265276,481,logout-5,304,Not Modified,Thread Group 1-2,,true,,206,981,1,1,http://the-internet.herokuapp.com/js/vendor/jquery-1.11.3.min.js,0,0,235
+1603598265276,225,logout-6,304,Not Modified,Thread Group 1-2,,true,,206,990,1,1,http://the-internet.herokuapp.com/js/vendor/jquery-ui-1.11.4/jquery-ui.js,0,0,0
+1603598265276,241,logout-7,304,Not Modified,Thread Group 1-2,,true,,206,978,1,1,http://the-internet.herokuapp.com/js/foundation/foundation.js,0,0,0
+1603598265499,228,logout-8,304,Not Modified,Thread Group 1-2,,true,,206,985,1,1,http://the-internet.herokuapp.com/js/foundation/foundation.alerts.js,0,0,0
+1603598265510,447,logout-9,304,Not Modified,Thread Group 1-2,,true,,206,984,1,1,http://the-internet.herokuapp.com/img/forkme_right_green_007200.png,0,0,217
+1603598247632,8747,Test,,"Number of samples in transaction : 4, number of failing samples : 1",Thread Group 1-2,,false,,1121078,28587,1,1,null,1403,9580,445
+1603598265958,1,Debug Sampler,200,OK,Thread Group 1-2,text,true,,512,0,1,1,null,0,0,0
